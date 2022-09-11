@@ -1,0 +1,25 @@
+.order {
+  position: sticky;
+  top: 0px;
+}
+.order h2 {
+  text-align: center;
+  margin-bottom: 35px;
+}
+.order-info {
+  padding-left: 20px;
+}
+.order-info .grand-total {
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.order button {
+  display: block;
+  border: none;
+  border-radius: 5px;
+  width: 50%;
+  margin: 10px auto;
+  padding: 10px;
+  font-weight: 600;
+  background-color: rgb(255, 177, 83);
+}

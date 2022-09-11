@@ -1,0 +1,25 @@
+.header {
+  background-color: #1c2b35;
+}
+.header h1 {
+  color: #ffffff;
+  font-size: 2.3rem;
+}
+.container {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.menu a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 12px;
+  font-size: 17px;
+}
+.menu a:hover {
+  background-color: #ffffff;
+  color: #1c2b35;
+  border-radius: 3px;
+}
